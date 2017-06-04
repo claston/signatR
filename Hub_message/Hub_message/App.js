@@ -8,8 +8,8 @@
             var connection;
             return {
                 connect: function () {
-                    //connection = $.hubConnection('/chat2/signalr', { useDefaultPath: false });
-                    connection = $.hubConnection('/signalr', { useDefaultPath: false });
+                    connection = $.hubConnection('/chat2/signalr', { useDefaultPath: false });
+                    //connection = $.hubConnection('/signalr', { useDefaultPath: false });
                     //connection = $.hubConnection();
                     proxy = connection.createHubProxy('chatHub');
                     //proxy = connection.chatHub;
