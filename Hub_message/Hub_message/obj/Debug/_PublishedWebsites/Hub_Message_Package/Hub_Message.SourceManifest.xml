@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\claytongomes\workspace\signatR\Hub_Message\Hub_message\obj\DEBUG\Package\PackageTmp" />
+  <setAcl path="C:\Users\claytongomes\workspace\signatR\Hub_Message\Hub_message\obj\DEBUG\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\claytongomes\workspace\signatR\Hub_Message\Hub_message\obj\DEBUG\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
